@@ -23,5 +23,5 @@ And Finally, in the algorithm question we awnsered the maximum global score that
 # Files
 - [`main.ipynb`](https://github.com/bergio13/ADM_HW5/blob/main/main.ipynb):Notebook with all answer to the Assignment
 - [`CommandLine.sh`](https://github.com/bergio13/ADM_HW5/blob/main/CommandLine.png):command line question
-- [`README.md`](https://github.com/marinazanoni/HMW3-ADM/edit/main/README.md) : information about the repository
+- [`README.md`](https://github.com/bergio13/ADM_HW5/blob/main/README.md) : information about the repository
 
