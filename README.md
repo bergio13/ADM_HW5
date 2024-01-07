@@ -21,7 +21,7 @@ Furthormore, the following questions have been awnsered in CommandLine.sh file.
 And Finally, in the algorithm question we awnsered the maximum global score that can be achieved with the available athletes.
 
 # Files
-- [`mauin.ipynb`](https://github.com/marinazanoni/HMW3-ADM/blob/main/HMW_ADM3.ipynb):Notebook with all answer to the Assignment
+- [`main.ipynb`](https://github.com/bergio13/ADM_HW5/blob/main/main.ipynb):Notebook with all answer to the Assignment
 - [`CommandLine.sh`](https://github.com/bergio13/ADM_HW5/blob/main/CommandLine.png):command line question
 - [`README.md`](https://github.com/marinazanoni/HMW3-ADM/edit/main/README.md) : information about the repository
 
