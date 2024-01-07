@@ -15,7 +15,9 @@ In this project, the objective is to analyze and extract valuable insights from 
 
 Furthormore, the following questions have been awnsered in CommandLine.sh file.
 1-Is there any node that acts as an important "connector" between the different parts of the graph?
+
 2-How does the degree of citation vary among the graph nodes?
+
 3-What is the average length of the shortest path among nodes?
 
 And Finally, in the algorithm question we awnsered the maximum global score that can be achieved with the available athletes.
